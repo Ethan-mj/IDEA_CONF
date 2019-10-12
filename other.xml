@@ -1,0 +1,30 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="E:/developtool/nodejs/node.exe">
+      <version-cache version="10.15.0" last-modified="1545776960000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.35.40/svn/develop/projects/访客系统" />
+        <option value="https://192.168.35.40/svn/develop/raptor-boot/trunk/04_代码" />
+        <option value="https://192.168.35.40/svn/develop/raptor-boot/trunk/04_代码/raptor-boot" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.35.40/svn/develop/projects/访客系统" />
+        <option value="https://192.168.35.40/svn/develop/raptor-boot/trunk/04_代码" />
+        <option value="https://192.168.35.40/svn/develop/raptor-boot/trunk/04_代码/raptor-boot" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
