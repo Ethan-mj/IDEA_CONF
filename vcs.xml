@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/Swagger2Markup/swagger2markup.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.zeasn.com:saas/saas_web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Code" />
