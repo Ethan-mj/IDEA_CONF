@@ -90,6 +90,10 @@
           <option name="url" value="git@github.zeasn.com:new_platform/app_service_portal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.zeasn.com:new_platform/appgallery_api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Code" />
