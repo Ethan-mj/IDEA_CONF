@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/MobileTribe/commit-template-idea-plugin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.zeasn.com:new_platform/service_portals.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
