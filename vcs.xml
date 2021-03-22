@@ -66,9 +66,13 @@
           <option name="url" value="git@github.zeasn.com:saas/zeasn_feedback_api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/awsdocs/aws-lambda-developer-guide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project/code/aws" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
