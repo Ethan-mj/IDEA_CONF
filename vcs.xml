@@ -110,6 +110,10 @@
           <option name="url" value="http://dev.git.nhaowan.com" />
           <option name="userName" value="ethan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.zeasn.com:smartcontrol/single_app_common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
