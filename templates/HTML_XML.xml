@@ -1,0 +1,9 @@
+<templateSet group="HTML/XML">
+  <template name="foreach" value="foreach collection=&quot;$col$&quot; item=&quot;item&quot; open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt;&#10;    #{item}&#10;&lt;/foreach&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+</templateSet>
