@@ -1,5 +1,5 @@
 <templateSet group="HTML/XML">
-  <template name="foreach" value="foreach collection=&quot;$col$&quot; item=&quot;item&quot; open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt;&#10;    #{item}&#10;&lt;/foreach&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="foreach" value="foreach collection=&quot;$col$&quot; item=&quot;item&quot; open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt;&#10;    #{item}&#10;&lt;/foreach&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
