@@ -130,6 +130,14 @@
           <option name="url" value="git@github.zeasn.com:saas-cn/zeasn_saas_pp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.zeasn.com:saas-cn/wrc_config_service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.zeasn.com:saas-cn/wrc_config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code/cn" />
