@@ -222,6 +222,10 @@
           <option name="url" value="git@github.zeasn.com:dev-tools/apimonitor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zheng-zy/spring-boot-redis-guava-caffeine-cache.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
