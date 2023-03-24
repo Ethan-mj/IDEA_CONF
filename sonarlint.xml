@@ -1,5 +1,29 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S2629">
+          <value>
+            <Rule active="false" key="java:S2629" />
+          </value>
+        </entry>
+        <entry key="squid:S1155">
+          <value>
+            <Rule active="false" key="squid:S1155" />
+          </value>
+        </entry>
+        <entry key="squid:S3027">
+          <value>
+            <Rule active="false" key="squid:S3027" />
+          </value>
+        </entry>
+        <entry key="squid:S3958">
+          <value>
+            <Rule active="false" key="squid:S3958" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
@@ -14,6 +38,7 @@
     </option>
     <rules>
       <Rule active="false" key="squid:S1155" />
+      <Rule active="false" key="java:S2629" />
       <Rule active="false" key="squid:S3027" />
       <Rule active="false" key="squid:S3958" />
     </rules>
