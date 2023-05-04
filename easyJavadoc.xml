@@ -1,6 +1,25 @@
 <application>
   <component name="easyJavadoc">
     <option name="author" value="ethan" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="whale_user_api">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="zeasn_saas_asp">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="zeasn_saas_sp">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="simpleFieldDoc" value="true" />
   </component>
 </application>
