@@ -7,6 +7,16 @@
     <option name="genAllMethod" value="true" />
     <option name="projectWordMap">
       <map>
+        <entry key="IoTCloud">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="appgallery_api">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="whale_user_api" />
         <entry key="zeasn_saas_asp" />
         <entry key="zeasn_saas_sp" />
