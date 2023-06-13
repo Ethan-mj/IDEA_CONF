@@ -7,40 +7,19 @@
             <Rule active="false" key="java:S2629" />
           </value>
         </entry>
-        <entry key="squid:S1155">
-          <value>
-            <Rule active="false" key="squid:S1155" />
-          </value>
-        </entry>
-        <entry key="squid:S3027">
-          <value>
-            <Rule active="false" key="squid:S3027" />
-          </value>
-        </entry>
-        <entry key="squid:S3958">
-          <value>
-            <Rule active="false" key="squid:S3958" />
-          </value>
-        </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://127.0.0.1:9000" />
-          <option name="name" value="my_sonar" />
-          <option name="login" value="admin" />
-          <password>dfcbdfcedfc7dfc3dfc4</password>
-          <organizationKey>default-organization</organizationKey>
+          <option name="hostUrl" value="http://sonar.zeasn.com" />
+          <token>dfcfdfc8dfc9df99df9bdf99df9ddf9ddfccdf92df9adf92dfc9df9cdf98dfcbdfcfdfcfdfc9df98dfcfdfc9dfcedfccdf99dfccdf9cdf9bdf9bdf98df99df93df9cdfc9df9cdf9fdfccdf99dfcedfce</token>
+          <option name="name" value="zeasn" />
         </SonarQubeServer>
       </list>
     </option>
     <rules>
-      <Rule active="false" key="squid:S1155" />
       <Rule active="false" key="java:S2629" />
-      <Rule active="false" key="squid:S3027" />
-      <Rule active="false" key="squid:S3958" />
     </rules>
   </component>
 </application>
