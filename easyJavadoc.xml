@@ -9,6 +9,11 @@
       <map>
         <entry key="IoTCloud" />
         <entry key="appgallery_api" />
+        <entry key="saas_tps">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="whale_photo_api">
           <value>
             <map />
