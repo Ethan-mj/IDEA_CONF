@@ -274,9 +274,13 @@
           <option name="url" value="https://github.zeasn.com/jinzhi/market-data.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.zeasn.com/saas-cn/zeasn_saas_asp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project/code/cn" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
