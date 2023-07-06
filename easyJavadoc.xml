@@ -14,12 +14,17 @@
             <map />
           </value>
         </entry>
-        <entry key="whale_photo_api">
+        <entry key="whale_photo_api" />
+        <entry key="whale_user_api">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="whale_user_api" />
+        <entry key="wrc_config">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="zeasn_saas_asp" />
         <entry key="zeasn_saas_sp" />
       </map>
