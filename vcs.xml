@@ -302,6 +302,10 @@
           <option name="url" value="https://github.zeasn.com/new_platform/userCenter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.zeasn.com/gmenu/gmenu_api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project" />
