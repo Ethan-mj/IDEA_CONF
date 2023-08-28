@@ -310,6 +310,10 @@
           <option name="url" value="https://github.zeasn.com/Sinoimage/SinoApi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.zeasn.com/jinzhi/ucenter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
