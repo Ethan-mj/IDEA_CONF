@@ -330,6 +330,10 @@
           <option name="url" value="https://github.zeasn.com/saas/cinema-device-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.zeasn.com/saas/cinema_mgr_api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code/saas" />
