@@ -350,6 +350,14 @@
           <option name="url" value="https://github.zeasn.com/ck_domestic/NewCKManager-icntv.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.zeasn.com/usercenter/UserCenterOverseas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.zeasn.com/usercenter/UserCenterTJ.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
