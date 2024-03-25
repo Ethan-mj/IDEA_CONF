@@ -366,6 +366,10 @@
           <option name="url" value="https://github.zeasn.com/saas/payment_mgr_api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/IntuitDeveloper/SampleApp-Webhooks-Java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/code" />
