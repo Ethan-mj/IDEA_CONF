@@ -9,18 +9,16 @@
       <map>
         <entry key="IoTCloud" />
         <entry key="appgallery_api" />
-        <entry key="saas_tps">
+        <entry key="payment_api">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="saas_tps" />
         <entry key="whale_photo_api" />
-        <entry key="whale_user_api">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="wrc_config">
+        <entry key="whale_user_api" />
+        <entry key="wrc_config" />
+        <entry key="zeasn-saas-pp">
           <value>
             <map />
           </value>
