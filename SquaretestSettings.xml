@@ -19,6 +19,22 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="whale_user_api">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="whale_user_api" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="projectNameModuleNameToSettingsMap">
@@ -27,6 +43,14 @@
           <value>
             <ModuleSettings>
               <option name="moduleName" value="whale_photo_api" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="whale_user_api_whale_user_api">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="whale_user_api" />
               <option name="testDirectoryRoot" value="src/test/java" />
             </ModuleSettings>
           </value>
