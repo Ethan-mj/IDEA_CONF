@@ -7,10 +7,30 @@
     <option name="genAllMethod" value="false" />
     <option name="projectWordMap">
       <map>
+        <entry key="DevicePortalServers">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="IoTCloud" />
+        <entry key="app_portal">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="appgallery_api" />
+        <entry key="customer_portal">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="payment_api" />
         <entry key="saas_tps" />
+        <entry key="service_portal">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="whale_photo_api" />
         <entry key="whale_user_api" />
         <entry key="wrc_config" />
