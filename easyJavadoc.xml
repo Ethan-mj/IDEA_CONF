@@ -7,33 +7,35 @@
     <option name="genAllMethod" value="false" />
     <option name="projectWordMap">
       <map>
-        <entry key="DevicePortalServers">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="DevicePortalServers" />
         <entry key="IoTCloud" />
-        <entry key="app_portal">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="app_portal" />
         <entry key="appgallery_api" />
-        <entry key="customer_portal">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="customer_portal" />
         <entry key="payment_api" />
         <entry key="saas_tps" />
-        <entry key="service_portal">
+        <entry key="service_portal" />
+        <entry key="whale_photo_api">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="whale_photo_api" />
-        <entry key="whale_user_api" />
+        <entry key="whale_user_api">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="wrc_config" />
+        <entry key="zeasn-feedback-api">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="zeasn-saas-portal">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="zeasn-saas-pp" />
         <entry key="zeasn_saas_asp" />
         <entry key="zeasn_saas_sp" />
